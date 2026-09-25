@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   /* ========== CONFIG ========== */
   // ★ ДАТА НАЧАЛА ОТНОШЕНИЙ — измените здесь ★
-  const RELATIONSHIP_START = new Date('2025-02-14T00:00:00');
+  const RELATIONSHIP_START = new Date('2026-06-22T00:00:00');
 
   const LOVE_MESSAGES = [
     'Я люблю тебя 💜', 'Ты — моё всё ❤️', 'Навсегда вместе 💕',
