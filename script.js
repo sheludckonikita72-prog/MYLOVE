@@ -487,7 +487,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   /* ========== MUSIC ========== */
   function playMusic() {
-    audio.volume = 0.35;
+    audio.volume = 0.15;
     audio.play().then(() => {
       isPlaying = true;
       musicToggle.classList.add('playing');
